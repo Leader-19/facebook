@@ -905,6 +905,14 @@ nav .right img {
         display: none;
     }
 
+    .my_post, .post_bottom, .post_icon {
+        display: none;
+    }
+
+    .room , .room_image, .room_profile {
+        display: none;
+    }
+
 
 }
 
@@ -920,5 +928,13 @@ nav .right img {
         display: flex;
         flex-direction: row;
         /* Stack grid items on top of each other */
+    }
+
+    .my_post, .post_bottom, .post_icon {
+        display: none;
+    }
+
+    .room , .room_image, .room_profile {
+        display: none;
     }
 }
