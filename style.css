@@ -381,7 +381,7 @@ nav .right img {
     display: flex;
     align-items: center;
     margin: 0 auto;
-    padding: 7px 40px;
+    padding: 7px 7px;
     cursor: pointer;
 }
 
